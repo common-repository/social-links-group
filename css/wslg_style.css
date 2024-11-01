@@ -1,0 +1,235 @@
+.wslg_title{
+    margin-top: 2em!important;
+    background-color: #fff;
+    box-shadow: 0 0 4px 1px #DAD2D2;
+    padding: 15px 20px!important;
+    text-align: left;
+    font-weight: bold!important;
+    font-size: 25px!important;
+    margin-bottom: 20px!important;
+    color: #E96363;
+    text-shadow: 1px 1px #D6D6D6;
+    height: 35px;
+    line-height: 35px!important;
+}
+.wslg_group{
+    position: relative;
+    display: table;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 20px;
+    box-shadow: 0 0 4px 1px #DAD2D2;
+    padding: 20px 0px;
+}
+.new_field_form{
+    border: 1px solid #f1f1f1;
+    padding: 10px 0px;
+    margin-bottom: 10px;
+    box-shadow: 0 0px 3px 1px #EDEDED;
+    margin-left: -3px;
+}
+.wslg_group label{
+    line-height: 36px;
+}
+.wslg_group select {
+    height: 34px;
+}
+.wslg_group .error{
+    border-color: red!important;
+}
+.wslg_social{
+    padding: 5px 0px;
+    background-color: #f1f1f1;
+    margin-bottom: 10px;
+    position: relative;
+    text-transform: capitalize;
+}
+.wslg_social a{
+    position: absolute;
+    top: 14px;
+    cursor: pointer;
+}
+.fixed_save_button{
+    margin-top: 20px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    width: 50%;
+}
+.fixed_save_button button{
+    height: 40px!important;
+    margin-right: 10px!important;
+    float: left!important;
+}
+.border-left{
+    border-left: 1px solid #d3d3d3;
+}
+.position-static{
+    position: static!important;
+}
+#generated_shortcode{
+    float: left;
+    width: 75%;
+    background-color: #fff;
+    height: 40px;
+}
+
+table.wslg thead tr th{
+    font-size: 18px;
+}
+
+table.wslg tr td label{
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px;
+    color: #555;
+}
+#TextBoxContainer{
+    margin-bottom: 4em;
+}
+.ui-widget-overlay{
+    background: #000!important;
+}
+.ui-dialog.ui-widget{
+    padding: 0!important;
+    border: 0px!important;
+    border-radius: 0px!important;
+}
+.ui-dialog-titlebar {
+    display: none;
+}
+.ui-dialog .ui-dialog-content{
+    background-color: #fff;
+    box-shadow: 0 0 4px 1px #DAD2D2;
+    padding: 5px 20px!important;
+    text-align: left;
+    font-size: 25px!important;
+    color: #E96363;
+    line-height: 35px!important;
+}
+.ui-dialog .ui-dialog-buttonpane button:first-child{
+    background: #E96363;
+    color: #fff;
+    outline: none;
+    border: 0px;
+    box-shadow: 0 0 10px 1px #B5B5B5;
+}
+.ui-dialog .ui-dialog-buttonpane button:nth-child(2){
+    background:#fff;
+    color: #E96363;
+    outline: none;
+    border: 0px;
+    box-shadow: 0 0 10px 1px #B5B5B5;
+}
+.ui-dialog{
+    outline: none!important;
+}
+.ui-dialog-buttonpane{
+    margin-top: 0px!important;
+}
+.wslgbutton{
+    background-color: #E96363!important;
+    text-shadow: none!important;
+    border: none!important;
+    box-shadow: 0 0 10px 1px #B5B5B5!important;
+    height: 36px!important;
+    line-height: 36px!important;
+    margin-right: 10px!important;
+}
+.wslg_social a{
+    color: #E96363!important;
+}
+.wslgbutton.processing{
+    opacity: 0.8;
+    box-shadow: none!important;
+}
+
+/*.delay1 {
+    animation-delay: 0.2s!important;
+    -webkit-animation-delay: 0.2s!important;
+}
+.delay2 {
+    animation-delay: 0.4s;
+    -webkit-animation-delay: 0.4s;
+}*/
+
+.wslg .dashicons-yes{
+    border: 1px solid;
+    border-radius: 50%;
+    margin: 0 auto;
+    color: green;
+    padding: 2px;
+}
+
+.wslg .dashicons-no{
+    border: 1px solid;
+    border-radius: 50%;
+    margin: 0 auto;
+    color: #666;
+    padding: 2px;
+}
+.wslg .action a span{
+    color: #E96363;
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 2px;
+    margin-right: 5px;
+}
+.wslg a:focus{
+    box-shadow: none!important;
+    outline: none!important;
+}
+.text-center{
+    text-align: center;
+}
+.w100{
+    width: 100%;
+}
+.wslg_social label{
+    margin-bottom: 0;
+}
+.contact{
+    background-color: #fff;
+    margin-top: 30px;
+    padding: 20px 0px;
+}
+.fa-email:before{
+    content: '\f0e0'; 
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+}
+.img-responsive{
+    width: 100%;
+}
+.priview{
+    overflow: hidden;
+    position: relative;
+}
+.priview span{
+    box-shadow: 0 0 8px 1px #B7B7B7;
+    background-color: #ddd;
+    padding: 5px 15px;
+    display: block;
+    font-size: 20px;
+    -ms-transform: rotate(-30deg);
+    -webkit-transform: rotate(-30deg);
+    transform:rotate(-30deg);
+    transform: rotate(-30deg);
+    position: absolute;
+    width: 200px;
+    left: -70px;
+    top: 15px;
+}
+.priview input{
+    width: 400px!important;
+    float: none!important;
+    margin-bottom: 20px!important;
+}
+.p_fixed{
+    display: none;
+}
+
+.wslg_promo{
+    padding: 20px 0px;
+}
